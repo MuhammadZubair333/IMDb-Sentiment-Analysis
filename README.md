@@ -30,7 +30,7 @@ The dataset consists of 50,000 movie reviews labeled as positive or negative. It
 
 - Implemented models:
   - Logistic Regression
-  - Support Vector Machine (SVM)
+  - Naive Bayes
   - Long Short-Term Memory (LSTM) Network
 - Evaluation Metrics:
   - Accuracy
