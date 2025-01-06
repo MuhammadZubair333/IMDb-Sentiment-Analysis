@@ -79,9 +79,3 @@ pip install -r requirements.txt
 
 
 
-## Acknowledgments
-
-- Dataset: [Kaggle IMDB 50k Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
-- Libraries: Scikit-learn, TensorFlow, BERTopic, Pandas, Matplotlib, and more.
-
----
