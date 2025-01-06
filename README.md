@@ -77,36 +77,7 @@ git clone https://github.com/your-username/your-repository.git
 cd your-repository
 pip install -r requirements.txt
 
-## Dataset
 
-- **Dataset Used:** [IMDB 50k Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)  
-- The dataset contains two columns: `review` and `sentiment`.  
-  - `review`: Text of the movie review.  
-  - `sentiment`: Binary sentiment labels (`positive` or `negative`).  
-
----
-
-## Results
-
-### Sentiment Analysis
-
-- **Machine Learning Models:**  
-  - Naive Bayes (NB): `Metric scores`  
-  - Logistic Regression (LR): `Metric scores`  
-
-- **Deep Learning Model:**  
-  - LSTM: `Metric scores`  
-
-### Topic Modeling
-
-- **BERTopic**: Extracted themes such as acting, screenplay, and music.
-
-### Visualizations
-
-- **Best and Worst-Reviewed Movies by Genre**  
-- **Demographic and Textual Data Analysis**
-
----
 
 ## Acknowledgments
 
